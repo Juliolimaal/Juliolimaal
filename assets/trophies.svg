@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190">
+<rect width="1000" height="190" rx="18" fill="#0D1117"/>
+<text x="28" y="34" fill="#FF00D4" font-family="monospace" font-size="18" font-weight="700">ACHIEVEMENT MATRIX // GITHUB</text>
+<g font-family="monospace">
+<rect x="28" y="58" width="220" height="104" rx="14" fill="#111827" stroke="#00F7FF"/><text x="138" y="88" text-anchor="middle" fill="#00F7FF" font-size="13">REPOSITORIES</text><text x="138" y="132" text-anchor="middle" fill="#FFF" font-size="31" font-weight="700">19</text>
+<rect x="270" y="58" width="220" height="104" rx="14" fill="#111827" stroke="#FF00D4"/><text x="380" y="88" text-anchor="middle" fill="#FF00D4" font-size="13">FEATURED STACK</text><text x="380" y="132" text-anchor="middle" fill="#FFF" font-size="22" font-weight="700">WEB + JAVA</text>
+<rect x="512" y="58" width="220" height="104" rx="14" fill="#111827" stroke="#00F7FF"/><text x="622" y="88" text-anchor="middle" fill="#00F7FF" font-size="13">SNAKE STATUS</text><text x="622" y="132" text-anchor="middle" fill="#FFF" font-size="22" font-weight="700">ONLINE</text>
+<rect x="754" y="58" width="218" height="104" rx="14" fill="#111827" stroke="#FF00D4"/><text x="863" y="88" text-anchor="middle" fill="#FF00D4" font-size="13">PROFILE MODE</text><text x="863" y="132" text-anchor="middle" fill="#FFF" font-size="22" font-weight="700">EVOLVING</text>
+</g></svg>
