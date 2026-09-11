@@ -155,13 +155,13 @@ NEXT_LEVEL="IN_PROGRESS..."
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Juliolimaal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=FF00D4" />
+<img width="49%" src="./assets/github-stats.svg" alt="GitHub Analytics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliolimaal&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF00D4&text_color=C9D1D9" />
+<img width="49%" src="./assets/top-languages.svg" alt="Main Languages" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Juliolimaal&hide_border=true&background=0D1117&stroke=00F7FF&ring=FF00D4&fire=FF00D4&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img width="70%" src="./assets/streak.svg" alt="Development Streak" />
 
 </div>
 
