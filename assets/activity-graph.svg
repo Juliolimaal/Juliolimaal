@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270">
+<defs><linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00F7FF" stop-opacity=".26"/><stop offset="1" stop-color="#00F7FF" stop-opacity="0"/></linearGradient></defs>
+<rect width="1000" height="270" rx="18" fill="#0D1117"/>
+<text x="28" y="34" fill="#00F7FF" font-family="monospace" font-size="18" font-weight="700">JULIO.OS // PUBLIC ACTIVITY</text>
+<line x1="55" y1="58" x2="975" y2="58" stroke="#21262D"/><line x1="55" y1="100" x2="975" y2="100" stroke="#21262D"/><line x1="55" y1="142" x2="975" y2="142" stroke="#21262D"/><line x1="55" y1="184" x2="975" y2="184" stroke="#21262D"/><line x1="55" y1="225" x2="975" y2="225" stroke="#21262D"/>
+<polygon points="55,225 55,225 85,225 115,225 145,170 175,225 205,225 235,225 265,225 295,225 325,225 355,225 385,225 415,225 445,225 475,225 505,225 535,170 565,225 595,225 625,225 655,225 685,225 715,225 745,225 775,225 805,225 835,225 865,225 895,150 925,110 955,80 975,225" fill="url(#area)"/>
+<polyline points="55,225 85,225 115,225 145,170 175,225 205,225 235,225 265,225 295,225 325,225 355,225 385,225 415,225 445,225 475,225 505,225 535,170 565,225 595,225 625,225 655,225 685,225 715,225 745,225 775,225 805,225 835,225 865,225 895,150 925,110 955,80" fill="none" stroke="#FF00D4" stroke-width="3"/>
+<text x="55" y="252" fill="#8B949E" font-family="monospace" font-size="11">RECENT COMMITS</text><text x="975" y="252" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="11">LIVE PROFILE VIEW</text>
+</svg>
