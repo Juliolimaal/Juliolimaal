@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05080D"/>
+      <stop offset="0.5" stop-color="#0B111A"/>
+      <stop offset="1" stop-color="#090712"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00F7FF" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#00F7FF"/>
+      <stop offset="0.55" stop-color="#FF00D4"/>
+      <stop offset="1" stop-color="#FF00D4" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#00F7FF" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <rect x="1.5" y="1.5" width="1197" height="357" rx="22.5" fill="none" stroke="#1F2A37" stroke-width="3"/>
+
+  <path d="M30 88V30H88 M1112 30H1170V88 M30 272V330H88 M1112 330H1170V272" fill="none" stroke="#00F7FF" stroke-width="3" opacity="0.8"/>
+  <path d="M30 58H155 M1045 58H1170" stroke="#FF00D4" stroke-width="2" opacity="0.8"/>
+
+  <g opacity="0.7" font-family="monospace" font-size="12" fill="#7DD3FC">
+    <text x="52" y="54">SYS://PROFILE_NODE</text>
+    <text x="1010" y="54">STATUS: ONLINE</text>
+    <text x="52" y="316">IFPB // SYSTEMS FOR INTERNET</text>
+    <text x="925" y="316">BUILD • LEARN • EVOLVE</text>
+  </g>
+
+  <g filter="url(#glow)">
+    <text x="600" y="138" text-anchor="middle" fill="#00F7FF" font-family="monospace" font-size="22" letter-spacing="7">JULIO.OS // DEVELOPER INTERFACE</text>
+    <text x="600" y="205" text-anchor="middle" fill="#FFFFFF" font-family="monospace" font-size="48" font-weight="700" letter-spacing="3">JULIO CESAR</text>
+    <text x="600" y="246" text-anchor="middle" fill="#FF00D4" font-family="monospace" font-size="17" letter-spacing="3">WEB DEVELOPMENT • SOFTWARE • TECHNOLOGY</text>
+  </g>
+
+  <g font-family="monospace" font-size="12">
+    <rect x="360" y="278" width="128" height="28" rx="14" fill="#08151A" stroke="#00F7FF"/>
+    <text x="424" y="297" text-anchor="middle" fill="#00F7FF">TYPESCRIPT</text>
+    <rect x="505" y="278" width="92" height="28" rx="14" fill="#140A16" stroke="#FF00D4"/>
+    <text x="551" y="297" text-anchor="middle" fill="#FF74E7">REACT</text>
+    <rect x="614" y="278" width="92" height="28" rx="14" fill="#08120C" stroke="#39FF14"/>
+    <text x="660" y="297" text-anchor="middle" fill="#8DFF87">JAVA</text>
+    <rect x="723" y="278" width="117" height="28" rx="14" fill="#101017" stroke="#A78BFA"/>
+    <text x="781" y="297" text-anchor="middle" fill="#C4B5FD">NEXT.JS</text>
+  </g>
+
+  <rect x="140" y="258" width="920" height="2" fill="url(#line)" opacity="0.75"/>
+  <rect x="0" y="0" width="1200" height="2" fill="url(#line)" opacity="0.35">
+    <animate attributeName="y" values="0;358;0" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
