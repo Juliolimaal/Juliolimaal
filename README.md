@@ -103,11 +103,11 @@ Atualmente estou aprofundando meus conhecimentos em **TypeScript, Angular, React
 <div align="center">
 
 <a href="https://github.com/Juliolimaal/Project_PW2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliolimaal&repo=Project_PW2&bg_color=0D1117&border_color=00F7FF&title_color=00F7FF&text_color=C9D1D9&icon_color=FF00D4" />
+  <img width="49%" src="./assets/project-world-wines.svg" alt="World Wines" />
 </a>
 
 <a href="https://github.com/Juliolimaal/central-certidoes">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliolimaal&repo=central-certidoes&bg_color=0D1117&border_color=FF00D4&title_color=FF00D4&text_color=C9D1D9&icon_color=00F7FF" />
+  <img width="49%" src="./assets/project-central-certidoes.svg" alt="Central Certidões" />
 </a>
 
 </div>
@@ -118,8 +118,8 @@ Atualmente estou aprofundando meus conhecimentos em **TypeScript, Angular, React
 
 <div align="left">
 
-[![Repository](https://img.shields.io/badge/REPOSITÓRIO-Project__PW2-0D1117?style=for-the-badge\&logo=github\&logoColor=00F7FF)](https://github.com/Juliolimaal/Project_PW2)
-[![Deploy](https://img.shields.io/badge/DEPLOY-VERCEL-0D1117?style=for-the-badge\&logo=vercel\&logoColor=FF00D4)](https://project-pw-2-alpha.vercel.app)
+[![Repository](https://img.shields.io/badge/REPOSITÓRIO-Project__PW2-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Juliolimaal/Project_PW2)
+[![Deploy](https://img.shields.io/badge/DEPLOY-VERCEL-0D1117?style=for-the-badge&logo=vercel&logoColor=FF00D4)](https://project-pw-2-alpha.vercel.app)
 
 </div>
 
@@ -127,7 +127,7 @@ Atualmente estou aprofundando meus conhecimentos em **TypeScript, Angular, React
 
 > Aplicativo local para Windows voltado à **centralização de consultas e documentos de regularidade empresarial**, com Node.js, Express, TypeScript, painel web e automações com Playwright.
 
-[![Repository](https://img.shields.io/badge/REPOSITÓRIO-central--certidoes-0D1117?style=for-the-badge\&logo=github\&logoColor=00F7FF)](https://github.com/Juliolimaal/central-certidoes)
+[![Repository](https://img.shields.io/badge/REPOSITÓRIO-central--certidoes-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Juliolimaal/central-certidoes)
 
 ---
 
@@ -171,7 +171,7 @@ NEXT_LEVEL="IN_PROGRESS..."
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Juliolimaal&bg_color=0D1117&color=00F7FF&line=FF00D4&point=FFFFFF&area=true&area_color=00F7FF&hide_border=true" />
+<img width="100%" src="./assets/activity-graph.svg" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -181,7 +181,7 @@ NEXT_LEVEL="IN_PROGRESS..."
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Juliolimaal&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+<img width="100%" src="./assets/trophies.svg" alt="GitHub Trophies" />
 
 </div>
 
